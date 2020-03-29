@@ -1,2 +1,2 @@
-# Data-Structures-in-Python
-Data strucures and Algorithms implemneted in Python.
+# Data Structures and Algorithms
+Data strucures and Algorithms implemneted in Python and C/C++.
